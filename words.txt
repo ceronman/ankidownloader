@@ -1,0 +1,84 @@
+de school
+het boek
+het papier
+de pen
+het potlood 
+de letter 
+het woord 
+de zin 
+de punt 
+de vraag 
+het vraagteken 
+de tas 
+de klas 
+de leraar 
+de leerling 
+de cursus 
+de cursist 
+het examen 
+de toets 
+de universiteit 
+de oefening 
+het schema 
+het probleem 
+het onderwijs 
+de les 
+de basisschool 
+de middelbare 
+de scholier
+de meester 
+de lerares 
+het vak 
+de taal 
+het woordenboek 
+het voorbeeld 
+de taak 
+de opdracht 
+het gesprek 
+de tekst 
+de pauze 
+het antwoord 
+de fout 
+het resultaat 
+het rapport 
+de directeur 
+de directrice 
+het diploma 
+de assistent 
+het huiswerk 
+de kleuterschool 
+het lokaal 
+het lesrooster 
+het krijtje 
+de oplossing 
+de juf
+het schrift 
+de stift
+de hoofdletter 
+de kleine letter 
+het alfabet
+leren
+oefenen 
+samenwerken 
+praten 
+maken 
+nakijken 
+luisteren 
+lezen 
+spreken 
+schrijven 
+staan 
+zitten 
+tekenen 
+afwezig 
+aanwezig 
+af 
+klaar 
+juist
+netjes 
+veel 
+weinig 
+plus 
+min 
+moeilijk 
+makkelijk

@@ -14,14 +14,15 @@ from selenium.webdriver.support.expected_conditions import presence_of_element_l
 
 
 def translate_words(driver):
-    i = 5
-    with open("words.txt", encoding="utf-8") as words_file:
+    i = 200
+    with open("words3.txt", encoding="utf-8") as words_file:
         for line in words_file:
             if not line:
                 continue
             word = line.strip()
             translations = translate_word(driver, word)
-            print(word, '->', repr(translations))
+            translations = ", ".join(repr(t) for t in translations)
+            print(f"{word};{translations}")
             download_speech(word)
             i = i - 1
             if i < 0:
@@ -43,7 +44,7 @@ def translate_word(driver, word):
     try:
         element = driver.find_element_by_class_name("defTransList")
     except NoSuchElementException:
-        logging.warn("Translation not found for %s", word)
+        logging.warning("Translation not found for " + word)
         return []
     translations = element.find_elements_by_tag_name("a")
     return [t.text for t in translations][:4]
@@ -69,7 +70,8 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO, stream=sys.stdout)
     logging.debug("Testing the logger")
     options = Options()
+    options.binary_location = "/usr/bin/chromium-freeworld"
     options.headless = True
-    with webdriver.Chrome(chrome_options=options) as driver:
+    with webdriver.Chrome(options=options) as driver:
         wait = WebDriverWait(driver, 10)
         translate_words(driver)

@@ -1,0 +1,84 @@
+het huis 
+de deur 
+het raam 
+de woonkamer 
+de slaapkamer 
+de badkamer 
+de wc 
+de keuken 
+de gang 
+het dak 
+de muur 
+de tuin 
+de trap 
+de lift 
+de wand 
+het plafond 
+de voordeur 
+de achterdeur 
+de ingang 
+de studeerkamer 
+de hal 
+de kapstok 
+het aanrecht 
+de meubels 
+het bad 
+de douche 
+het toilet 
+de uitgang 
+de woning 
+het gebouw
+het slot 
+de brievenbus 
+de drempel 
+het hek 
+de hut 
+de mat 
+het kussen 
+de deken 
+de bank 
+het huishouden 
+de huisvrouw 
+het stof 
+de stofzuiger 
+de emmer 
+de stoel 
+de tafel 
+de lamp 
+de kraan 
+de zolder 
+de verdieping 
+de kelder 
+de sleutel 
+de spiegel 
+de handdoek 
+de vaas 
+het gordijn 
+het bed 
+de kast 
+de la 
+de verwarming
+de tv 
+de radio 
+de vloer 
+bouwen 
+maken 
+gebruiken 
+wassen 
+schoonmaken 
+aanbellen 
+wonen 
+slapen 
+groot 
+klein 
+lang 
+kort 
+handig 
+booy 
+laag 
+beneden 
+boven 
+eenvoudig 
+comfortabel 
+gezellig 
+misschien

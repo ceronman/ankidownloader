@@ -7,7 +7,8 @@ de oma
 het kind
 het kleinkind
 de oom
-de tante uooz əp
+de tante
+de zoon
 de dochter
 de zus
 de broer
@@ -43,8 +44,8 @@ noemen
 verjaardag
 vieren
 heten
-op visite
-op bezoek
+visite
+bezoek
 ruzie
 homoseksueel
 aardig

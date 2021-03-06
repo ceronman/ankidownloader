@@ -15,7 +15,7 @@ from selenium.webdriver.support.expected_conditions import presence_of_element_l
 
 def translate_words(driver):
     i = 200
-    with open("words3.txt", encoding="utf-8") as words_file:
+    with open("words6.txt", encoding="utf-8") as words_file:
         for line in words_file:
             if not line:
                 continue
@@ -44,7 +44,7 @@ def translate_word(driver, word):
     try:
         element = driver.find_element_by_class_name("defTransList")
     except NoSuchElementException:
-        logging.warning("Translation not found for " + word)
+        print("Translation not found for " + word, file=sys.stderr)
         return []
     translations = element.find_elements_by_tag_name("a")
     return [t.text for t in translations][:4]

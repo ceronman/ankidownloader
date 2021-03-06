@@ -1,0 +1,87 @@
+het formulier 
+de agenda 
+de datum 
+de dag 
+de woonplaats 
+het land 
+de nationaliteit 
+het paspoort 
+de geboortedatum 
+de geboorteplaats 
+de leeftijd 
+het huwelijk 
+het meisje 
+de jongen 
+de persoon 
+de mens 
+de voornaam 
+de achternaam 
+het adres 
+het huisnummer 
+de postcode 
+de avond 
+de nacht 
+het weekend 
+de week 
+de maand 
+het jaar 
+de morgen 
+de middag 
+de vriendin 
+de vriend 
+de Nederlander 
+de buitenlander
+de alleenstaande 
+de meneer 
+de heer 
+de dame 
+de mevrouw 
+de identiteit 
+de identiteitskaart 
+de handtekening 
+het telefoonnummer 
+de vreemdeling 
+de moedertaal 
+de herkomst 
+de afspraak
+spellen
+scheiden
+gescheiden
+samenwonen
+invullen
+inleveren
+gaan
+komen
+roken
+trouwen
+getrouwd
+vandaag
+morgen
+gisteren
+overmorgen
+eergisteren
+anoniem
+Nederlands
+legaal
+oud
+jong
+niet
+wel
+maandag
+dinsdag
+woensdag
+donderdag
+vrijdag
+zaterdag
+januari
+februari
+maart
+april
+mei
+juni
+juli
+augustus
+september
+oktober
+november
+december

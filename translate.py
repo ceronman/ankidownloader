@@ -7,15 +7,12 @@ import requests
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support.expected_conditions import presence_of_element_located
 
 
 def translate_words(driver):
     i = 200
-    with open("words6.txt", encoding="utf-8") as words_file:
+    with open("words1-extra.txt", encoding="utf-8") as words_file:
         for line in words_file:
             if not line:
                 continue
@@ -27,6 +24,7 @@ def translate_words(driver):
             i = i - 1
             if i < 0:
                 break
+
 
 def translate_word(driver, word):
     logging.debug("translating %s", word)
@@ -70,7 +68,7 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO, stream=sys.stdout)
     logging.debug("Testing the logger")
     options = Options()
-    options.binary_location = "/usr/bin/chromium-freeworld"
+    options.binary_location = "/usr/bin/chromium-browser"
     options.headless = True
     with webdriver.Chrome(options=options) as driver:
         wait = WebDriverWait(driver, 10)
